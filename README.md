@@ -1,4 +1,3 @@
-#17-DeeMakLeoiCraft-sprint3/
 17-DeeMakLeoiCraft-sprint3/
 ├── README.md
 ├── docs/
